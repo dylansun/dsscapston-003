@@ -1,0 +1,20 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+Raw Data
+=============
+I download the dataset from the link provide by coursera. And using `readLines` to read the data into R.
+
+Data Preprocess
+===============
+Using wordnet[1][2] to perform some task. 
+
+
+Reference
+===========
+[1]George A. Miller (1995). WordNet: A Lexical Database for English. 
+Communications of the ACM Vol. 38, No. 11: 39-41. 
+
+[2]Christiane Fellbaum (1998, ed.) WordNet: An Electronic Lexical Database. Cambridge, MA: MIT Press.
